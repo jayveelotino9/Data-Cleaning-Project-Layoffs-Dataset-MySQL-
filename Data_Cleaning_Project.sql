@@ -1,5 +1,5 @@
 -- DATA CLEANING 
--- Shout out to the owner of the dataset (Alex the Analyst from Youtube) for this wonderful dataset from his YTC 
+-- Shout out to the owner of the dataset (Alex the Analyst) for this wonderful dataset
 
 -- 0. Create table duplicate for layoff table staging 
 -- 1. Remove Duplicates 
