@@ -165,7 +165,7 @@ and percentage_laid_off is NULL
 ;
 
 -- There are 361 rows that has no data about total_laid_off and percentage laid off, normally i will ask this to my supervisor
--- But since this is just a portfolio project of mine, Jayvee Lotino, we can just delete it and hypothetically our supervisor said yes
+-- But since this is just a portfolio project of mine, we can just delete it and hypothetically our supervisor said yes
 
 delete 
 from layoffs_staging2
@@ -174,4 +174,3 @@ and percentage_laid_off is NULL
 ;
 
 -- NOW this is done data cleaned and that concludes my data cleaning project
--- Shout out to Alex the Analyst since i learned everything from him, from the SQL series, and this is also the data from him
