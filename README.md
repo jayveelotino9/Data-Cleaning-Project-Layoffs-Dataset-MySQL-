@@ -3,7 +3,7 @@
 This project focuses on cleaning a real-world layoffs dataset using MySQL. The goal was to prepare the raw data for analysis by removing duplicates, fixing inconsistencies, and handling missing values.
 
 ## Dataset
-- Source: Alex The Analyst – MySQL YouTube Series
+- Source: Alex The Analyst – MySQL YT and Github
 - Topic: Tech company layoffs data
 
 ## What I Did
